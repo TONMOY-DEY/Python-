@@ -1,9 +1,7 @@
 import matplotlib.pyplot as plt
 
-size=[30,45,25]
-labels=['category A','category B','category C']
+sizes=[30,25,20,25]
+labels=['catagory A','catagory B','catagory c','catagory D']
 
-plt.pie(size,labels=labels,autopct='%1.1f%%')
-plt.title('pie Chart')
-print('........')
+plt.pie(sizes,labels=labels,autopct='%1.1f%%')
 plt.show()
