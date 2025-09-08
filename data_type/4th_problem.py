@@ -1,0 +1,10 @@
+n=int(input())
+a=1
+multiplication=1
+
+while a<=n:
+    multiplication=multiplication*a
+    print(multiplication)
+    a=a+1
+   
+    
