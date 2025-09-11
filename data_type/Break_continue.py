@@ -12,3 +12,4 @@ for i in a:
         continue #ignore kortechi
     else:
         print(i)
+        
