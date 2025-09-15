@@ -1,0 +1,2 @@
+User → Browser → Request → Server (Web Application)
+Server → Response → Browser → Display to User
