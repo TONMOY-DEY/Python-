@@ -1,0 +1,1 @@
+Client (Browser) → Request (www.google.com) → Server (Google) → Response (Search Results) → Client (User sees results)
