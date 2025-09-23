@@ -20,7 +20,6 @@ class CurrentAccount(BankAccount,AccountHolderInfo):
 
 sa=CurrentAccount()
 # print(sa.balance)
-# print(sa.Account_holder)
 # print(sa.account_number)
 # print(sa.person_name)
 sa.a()
