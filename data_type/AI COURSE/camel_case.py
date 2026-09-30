@@ -10,3 +10,12 @@ print(type(myName))
 
 Myvariable="Tonmoy"
 print(Myvariable)
+
+#Snake Case কী?
+
+#Snake Case হলো একটি naming convention, যেখানে একাধিক word-এর মধ্যে space না দিয়ে underscore _ ব্যবহার করা হয় এবং সাধারণত সব letters ছোট হাতের (lowercase) থাকে।
+
+myvariable="Hritam"
+print(myvariable)
+
+-myvariable="tonmoy"
