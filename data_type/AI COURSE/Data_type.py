@@ -11,3 +11,9 @@ print(X)
 # Tuple not update
 X=("Apple","Banana","Mango",)
 print(X)
+
+X=b"Hello"
+print(X)
+
+for i in range(5):
+    print(i)
