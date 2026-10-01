@@ -17,3 +17,15 @@ print(X)
 
 for i in range(5):
     print(i)
+
+
+#Dictionary
+Student={
+    "name":"Tonmoy",
+    "age":"21",
+    "department":"CSE",
+    "cgpa":"Nai bro"
+
+}
+print(Student)
+print(Student["cgpa"])
