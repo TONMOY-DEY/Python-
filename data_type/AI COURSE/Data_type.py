@@ -29,3 +29,9 @@ Student={
 }
 print(Student)
 print(Student["cgpa"])
+
+#What is a Set?
+#A Set is a collection that does not allow duplicate values.
+
+number={10,20,20,30,40,35,50,50}
+print(number)
